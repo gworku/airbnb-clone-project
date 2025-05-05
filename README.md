@@ -44,6 +44,14 @@ This is a backend blueprint for the Airbnb Clone, developed as part of the ALX p
 ## API Security
 
 - **Authentication**: Implement JWT-based login to verify user identity.
+- ## CI/CD Pipeline
+
+**CI/CD** (Continuous Integration/Deployment) automates code testing, building, and deployment. It improves development speed and reduces errors.
+
+**Tools:**
+- **GitHub Actions**: For automating test and build processes.
+- **Docker**: For packaging the application into containers for consistent deployment.
+
 - **Authorization**: Role-based access control for endpoints (e.g., only hosts can create properties).
 - **Rate Limiting**: Prevents abuse by limiting API calls per user/IP.
 - **Data Encryption**: Protects sensitive data at rest and in transit.
