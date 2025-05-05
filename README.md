@@ -8,3 +8,9 @@ This is a backend blueprint for the Airbnb Clone, developed as part of the ALX p
 - GraphQL
 - Docker
 - GitHub Actions
+## Team Roles
+
+- **Backend Developer**: Implements APIs, business logic, and handles server-side operations using Django.
+- **Database Administrator (DBA)**: Designs the schema, maintains performance, and handles backup/security for MySQL or PostgreSQL.
+- **DevOps Engineer**: Sets up CI/CD pipelines, Docker containers, and monitors deployment.
+- **Security Engineer**: Implements authentication, data protection, and API security measures.
