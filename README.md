@@ -41,4 +41,11 @@ This is a backend blueprint for the Airbnb Clone, developed as part of the ALX p
 - **Booking System**: Enables users to search, view availability, and book properties.
 - **Review System**: Lets guests leave reviews for properties they have booked.
 - **Payment Processing**: Integrates a mock or real payment gateway to handle bookings.
+## API Security
+
+- **Authentication**: Implement JWT-based login to verify user identity.
+- **Authorization**: Role-based access control for endpoints (e.g., only hosts can create properties).
+- **Rate Limiting**: Prevents abuse by limiting API calls per user/IP.
+- **Data Encryption**: Protects sensitive data at rest and in transit.
+- **Security Importance**: Critical for protecting user information, financial transactions, and ensuring system integrity.
 
