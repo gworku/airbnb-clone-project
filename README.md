@@ -34,3 +34,11 @@ This is a backend blueprint for the Airbnb Clone, developed as part of the ALX p
 - A user can list many properties.
 - A booking is made by a user for a specific property.
 - A booking can have one review and one payment.
+- ## Feature Breakdown
+
+- **User Management**: Handles user registration, login, and role-based access (guest/host).
+- **Property Management**: Allows hosts to list properties with descriptions, locations, and pricing.
+- **Booking System**: Enables users to search, view availability, and book properties.
+- **Review System**: Lets guests leave reviews for properties they have booked.
+- **Payment Processing**: Integrates a mock or real payment gateway to handle bookings.
+
