@@ -14,3 +14,10 @@ This is a backend blueprint for the Airbnb Clone, developed as part of the ALX p
 - **Database Administrator (DBA)**: Designs the schema, maintains performance, and handles backup/security for MySQL or PostgreSQL.
 - **DevOps Engineer**: Sets up CI/CD pipelines, Docker containers, and monitors deployment.
 - **Security Engineer**: Implements authentication, data protection, and API security measures.
+## Technology Stack
+
+- **Django**: Python-based web framework used to build REST APIs and backend logic.
+- **PostgreSQL/MySQL**: Relational database to store users, bookings, reviews, etc.
+- **GraphQL**: API query language for efficient frontend-backend communication.
+- **Docker**: Containerization tool to ensure consistent environments across dev/staging/prod.
+- **GitHub Actions**: CI/CD tool to automate testing and deployment.
